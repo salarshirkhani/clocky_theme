@@ -1,0 +1,11 @@
+<svg width="50"
+           height="50"
+           xmlns="http://www.w3.org/2000/svg"
+           xmlns:xlink="http://www.w3.org/1999/xlink">
+           <use xlink:href="#path0_fill" fill="#F50057"/>
+           <use xlink:href="#path1_fill" transform="rotate(45 -1 46)" fill="#FFF"/>
+           <use xlink:href="#path1_fill" transform="rotate(135 11.3 23.6)" fill="#FFF"/>
+           <defs><path id="path0_fill" d="M50 25a25 25 0 1 1-50 0 25 25 0 0 1 50 0z"/>
+                 <path id="path1_fill" d="M0 2.5C0 1.1 1.1 0 2.5 0 4 0 5.1 1.1 5.1 2.5V23c0 1.4-1.1 2.6-2.6 2.6A2.5 2.5 0 0 1 0 22.9V2.5z"/>
+           </defs>
+      </svg>
